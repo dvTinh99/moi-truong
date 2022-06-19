@@ -22,13 +22,18 @@
              <?php while ($getposts->have_posts()) : $getposts->the_post(); ?>
                  <?php global $product; ?>
                  <li class="col-md-3 col-xs-4 col-sm-6">
-                     <div class="detail">
-                         <div class="img_">
+                     <div class="detail" style ="height: 100%;
+    display: flex !important;
+    flex-direction: column;">
+                         <div class="img_" style ="flex-shrink: 0">
                              <a href="<?php the_permalink(); ?>" class="img">
-                                 <img width="200" height="ảuto" src="<?= get_the_post_thumbnail_url(get_the_ID(), 'thumnail', array( 'class' =>'thumnail') ); ?>" class="img-fluid mx-auto wp-post-image" alt="" />
+                                 <img width="200" height="auto" src="<?= get_the_post_thumbnail_url(get_the_ID(), 'thumnail', array( 'class' =>'thumnail') ); ?>" class="img-fluid mx-auto wp-post-image" alt="" />
                              </a>
                          </div>
-                         <div class="txt_">
+                         <div class="txt_" style = "height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;">
                              <h4><a href="<?php the_permalink(); ?>"> <?=  $product->get_title(); ?></a></h4>
                              <p><span>Giá: Liên hệ</span></p>
                          </div>

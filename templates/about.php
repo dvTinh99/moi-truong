@@ -312,25 +312,7 @@
                         </span>
                     </p>
                 </article>
-                <div class="social-post">
-                    <span class="share-buttons">
-                        <div class="fb-like fb_iframe_widget" data-href="https://baoholaodongdanang.com/gioi-thieu/"
-                            data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"
-                            fb-xfbml-state="rendered"
-                            fb-iframe-plugin-query="action=like&amp;app_id=&amp;container_width=870&amp;href=https%3A%2F%2Fbaoholaodongdanang.com%2Fgioi-thieu%2F&amp;layout=button_count&amp;locale=vi_VN&amp;sdk=joey&amp;share=true&amp;show_faces=true">
-                            <span style="vertical-align: bottom; width: 150px; height: 28px;">
-                                <iframe name="ff5f84083c77c" width="1000px" height="1000px"
-                                    data-testid="fb:like Facebook Social Plugin" title="fb:like Facebook Social Plugin"
-                                    frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no"
-                                    allow="encrypted-media"
-                                    src="https://www.facebook.com/v3.0/plugins/like.php?action=like&amp;app_id=&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df2c564fa1091f58%26domain%3Dbaoholaodongdanang.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fbaoholaodongdanang.com%252Ffce2440ede14a8%26relation%3Dparent.parent&amp;container_width=870&amp;href=https%3A%2F%2Fbaoholaodongdanang.com%2Fgioi-thieu%2F&amp;layout=button_count&amp;locale=vi_VN&amp;sdk=joey&amp;share=true&amp;show_faces=true"
-                                    style="border: none; visibility: visible; width: 150px; height: 28px;"
-                                    class=""></iframe>
-                            </span>
-                        </div>
-                        <g:plusone size="medium"></g:plusone>
-                    </span>
-                </div>
+               
             </div>
         </div>
 

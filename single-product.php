@@ -174,7 +174,6 @@
 
                             <aside class="sidebar widget-area widget__right" role="complementary">
                                 <div class="sidebar__inner">
-                                    <section id="media_image-9" class="widget widget_media_image"><a href="http://antoanmoitruong.com.vn" target="_blank"><img width="300" height="300" src="./images/123.png" class="image wp-image-11392  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="./images/123.png 300w, ./images/123-150x150.png 150w, ./images/123-180x180.png 180w, ./images/123-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px"></a></section>
                                     <section id="nav_menu-8" class="widget widget_nav_menu"><span class="widget-title">Bảo
                                             hộ lao động</span>
                                         <div class="menu-danh-muc-bao-ho-lao-dong-container">

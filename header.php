@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="mcn-logo col-md-4">
                     <h1>
-                        <a href="https://baoholaodongdanang.com"><img style="width: 300px;" src="<?php bloginfo('template_directory') ?>/html/images/logo-moitruong.jpg" alt="logo_page" /></a>
+                        <a href="https://baoholaodongvatuvanmoitruongdn.com"><img style="width: 300px;" src="<?php bloginfo('template_directory') ?>/html/images/logo-moitruong.jpg" alt="logo_page" /></a>
                     </h1>
                 </div>
                 <div class="header-right col-md-8">
