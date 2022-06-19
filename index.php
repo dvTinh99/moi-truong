@@ -108,11 +108,12 @@
                         </div>
                         <div class="col-md-9">
                             <?php get_template_part('template-parts/san-pham-noi-bat') ?>
-                            <?php get_template_part('template-parts/phong-chay-chua-chay') ?>
-                            <?php get_template_part('template-parts/bao-ho-lao-dong') ?>
-                            <?php get_template_part('template-parts/bien-canh-bao') ?>
-                            <?php get_template_part('template-parts/thiet-bi-an-toan-dien') ?>
-                            <?php get_template_part('template-parts/thiet-bi-ho-tro') ?>
+                            <?php get_template_part('template-parts/phong-chay-chua-chay',null, ['slug' =>'thiet-bi-pohong-chay-chua-chay']) ?>
+                            <?php get_template_part('template-parts/phong-chay-chua-chay',null, ['slug' =>'bao-ho-lao-dong']) ?>
+                            <?php //get_template_part('template-parts/bao-ho-lao-dong') ?>
+                            <?php //get_template_part('template-parts/bien-canh-bao') ?>
+                            <?php //get_template_part('template-parts/thiet-bi-an-toan-dien') ?>
+                            <?php //get_template_part('template-parts/thiet-bi-ho-tro') ?>
 
                         </div>
                     </div>
